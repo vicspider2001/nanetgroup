@@ -1,2 +1,3 @@
-# User-agent: *
+# start of file
+User-agent: *
 Allow: /
